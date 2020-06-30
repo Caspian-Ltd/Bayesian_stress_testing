@@ -18,3 +18,8 @@ The current implementation is tested using the following library versions:
 10. scipy 1.3.2
 11. scikit-learn 0.22.1 
 12. xlrd 1.2.0
+
+# Git LFS #
+
+Due to it's size **/data/training_data.csv** is tracked using Git LFS, ensure to install Git LFS from https://git-lfs.github.com/ before cloning and enable using:
+**git lfs install**
