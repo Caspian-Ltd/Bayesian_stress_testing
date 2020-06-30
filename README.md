@@ -14,11 +14,7 @@ The current implementation is tested using the following library versions:
 6. tensorflow probability 0.9.0 (nightly build dev20191029)
 7. seaborn 0.9.0
 8. matplotlib 3.1.1
-9. tqdm 4.40.0
+9. tqdm 4.46.0
 10. scipy 1.3.2
-11. scikit-learn 0.22.1
-
-# Git LFS #
-
-Due to it's size **/data/training_data.csv** is tracked using Git LFS, ensure to install Git LFS from https://git-lfs.github.com/ before cloning and enable using:
-**git lfs install**
+11. scikit-learn 0.22.1 
+12. xlrd 1.2.0
