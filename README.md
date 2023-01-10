@@ -1,3 +1,6 @@
+NOTE-  this project in no longer live or supported in any way. Please do not attempt to contact the developer.
+thanks.
+
 # README #
 
 This is the implementation of the paper "BAYESIAN STRESS TESTING OF MODELS IN A CLASSIFICATION HIERARCHY" accepted for publication in WCCI 2020. [arxiv](https://arxiv.org/abs/2005.12327)
